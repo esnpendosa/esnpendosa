@@ -4,35 +4,35 @@
 <div align="center">
 
   <!-- 3D Contribution Cube Animation -->
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Cube" />
+  <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Cube" />
   
   <br/>
   <br/>
 
-  <!-- Typing Animation -->
+  <!-- Animasi Mengetik (Typing Animation) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=MUHAMMAD+AS'AD+MUHIBBIN+AKBAR;System+Engineer+%7C+Full+Stack+Developer;Founder+of+KangDigital;WhatsApp+Bot+Automation+Specialist;AI+%26+CRM+System+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=MUHAMMAD+AS'AD+MUHIBBIN+AKBAR;System+Engineer+%7C+Full+Stack+Developer;Founder+KangDigital;Spesialis+Otomasi+Bot+WhatsApp;Arsitek+Sistem+AI+%26+CRM" alt="Typing SVG" />
   </a>
   
   <br/>
   <br/>
 
-  <!-- Status & Services Badges -->
+  <!-- Badge Status & Layanan -->
   <p>
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_PROJECT-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/SERVICES-WEB_%26_APP_DEVELOPMENT-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Services" />
-    <img src="https://img.shields.io/badge/SPECIALIST-AI_AUTOMATION-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
+    <img src="https://img.shields.io/badge/STATUS-TERSEDIA_UNTUK_PROYEK-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/LAYANAN-PENGEMBANGAN_WEB_%26_APP-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Services" />
+    <img src="https://img.shields.io/badge/SPESIALIS-OTOMASI_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
   </p>
   
   <br/>
 
-  <!-- Social Links -->
+  <!-- Link Media Sosial -->
   <p>
     <a href="https://kangdigital.web.id">
       <img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-kangdigital.web.id-00B4D8?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/in/muahmmad-as-ad-muhibbin-akbar-0973a0254/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Terhubung-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:aadscreet@gmail.com">
       <img src="https://img.shields.io/badge/Email-aadscreet@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -49,7 +49,7 @@
 ## 💼 Layanan Profesional KangDigital
 
 <div align="center">
-  <i>Menerima pengerjaan proyek kustom dengan teknologi terbaru</i>
+  <i>Menerima pengerjaan proyek kustom dengan teknologi terbaru dan tercanggih</i>
 </div>
 
 <br/>
@@ -59,44 +59,44 @@
     <td align="center" width="25%">
       <h3>🌐</h3>
       <h4>Web Development</h4>
-      <p>Landing Page<br/>Company Profile<br/>Dashboard Admin<br/>E-Commerce</p>
+      <p>Landing Page<br/>Profil Perusahaan<br/>Dashboard Admin<br/>E-Commerce</p>
     </td>
     <td align="center" width="25%">
       <h3>🤖</h3>
-      <h4>WhatsApp Automation</h4>
+      <h4>Otomasi WhatsApp</h4>
       <p>Bot Bisnis<br/>Notifikasi Otomatis<br/>Integrasi Sistem<br/>CRM WhatsApp</p>
     </td>
     <td align="center" width="25%">
       <h3>📱</h3>
-      <h4>Custom App</h4>
-      <p>Aplikasi Web Laravel<br/>Node.js Backend<br/>Progressive Web App<br/>REST API</p>
+      <h4>Aplikasi Kustom</h4>
+      <p>Aplikasi Web Laravel<br/>Backend Node.js<br/>Progressive Web App<br/>REST API</p>
     </td>
     <td align="center" width="25%">
       <h3>⚙️</h3>
-      <h4>System Optimization</h4>
+      <h4>Optimasi Sistem</h4>
       <p>Migrasi Database<br/>Integrasi API<br/>Otomasi Server<br/>Cloud Deployment</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
       <h3>🧠</h3>
-      <h4>AI Automation</h4>
-      <p>AI Chatbot<br/>Machine Learning<br/>Smart Automation<br/>Data Analysis</p>
+      <h4>Otomasi AI</h4>
+      <p>AI Chatbot<br/>Machine Learning<br/>Otomasi Pintar<br/>Analisis Data</p>
     </td>
     <td align="center" width="25%">
       <h3>🪟</h3>
-      <h4>Windows Development</h4>
-      <p>Windows Apps<br/>Server Management<br/>IIS Configuration<br/>.NET Framework</p>
+      <h4>Windows Dev</h4>
+      <p>Aplikasi Windows<br/>Manajemen Server<br/>Konfigurasi IIS<br/>.NET Framework</p>
     </td>
     <td align="center" width="25%">
       <h3>🔥</h3>
-      <h4>Firebase Integration</h4>
-      <p>Real-time Database<br/>Cloud Functions<br/>Authentication<br/>Push Notifications</p>
+      <h4>Integrasi Firebase</h4>
+      <p>Database Real-time<br/>Cloud Functions<br/>Autentikasi<br/>Notifikasi Push</p>
     </td>
     <td align="center" width="25%">
       <h3>🚀</h3>
-      <h4>Go Language</h4>
-      <p>Microservices<br/>High Performance APIs<br/>Concurrent Systems<br/>Cloud Native Apps</p>
+      <h4>Bahasa Go</h4>
+      <p>Microservices<br/>API Performa Tinggi<br/>Sistem Konkuren<br/>Cloud Native Apps</p>
     </td>
   </tr>
 </table>
@@ -117,29 +117,29 @@
 
 ```javascript
 const muhammadAsad = {
-    name: "Muhammad As'ad Muhibbin Akbar",
-    title: "System Engineer | Full Stack Developer | AI Specialist",
-    company: "KangDigital (Founder)",
-    location: "📍 Gresik, Jawa Timur, Indonesia",
-    education: "System Engineering & Computer Science",
-    contact: {
+    nama: "Muhammad As'ad Muhibbin Akbar",
+    peran: "System Engineer | Full Stack Developer | AI Specialist",
+    perusahaan: "KangDigital (Founder)",
+    lokasi: "📍 Gresik, Jawa Timur, Indonesia",
+    pendidikan: "Teknik Sistem & Ilmu Komputer",
+    kontak: {
         whatsApp: "085730302827",
         email: "aadscreet@gmail.com",
         website: "https://kangdigital.web.id"
     },
     
-    expertise: {
+    keahlian: {
         webDev: ["Laravel", "Node.js", "PHP", "JavaScript", "Go"],
-        automation: ["WhatsApp Bot", "CRM System", "API Integration"],
-        ai: ["AI Integration", "Smart Automation", "Machine Learning", "Chatbot AI"],
-        database: ["MySQL", "Firebase", "MongoDB", "Database Design"],
-        devOps: ["Linux Server", "Windows Server", "Git", "Docker", "Cloud"],
-        mobile: ["Progressive Web App", "Firebase Integration", "Push Notification"],
-        windows: ["Windows Apps", "IIS Server", ".NET Framework", "PowerShell"]
+        otomasi: ["WhatsApp Bot", "Sistem CRM", "Integrasi API"],
+        ai: ["Integrasi AI", "Otomasi Pintar", "Machine Learning", "Chatbot AI"],
+        database: ["MySQL", "Firebase", "MongoDB", "Desain Database"],
+        devOps: ["Server Linux", "Server Windows", "Git", "Docker", "Cloud"],
+        mobile: ["Progressive Web App", "Integrasi Firebase", "Notifikasi Push"],
+        windows: ["Aplikasi Windows", "Server IIS", ".NET Framework", "PowerShell"]
     },
     
-    focus: "Menggabungkan AI & Otomasi ke dalam sistem bisnis modern",
-    status: "🟢 Open for Projects & Collaboration"
+    fokus: "Menggabungkan AI & Otomasi ke dalam sistem bisnis modern",
+    status: "🟢 Tersedia untuk Proyek & Kolaborasi"
 };
 ```
 
@@ -147,11 +147,11 @@ const muhammadAsad = {
 
 ---
 
-## 🛡️ Tech Stack
+## 🛡️ Teknologi (Tech Stack)
 
 <div align="center">
 
-### Backend & Core
+### Backend & Inti
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -178,15 +178,15 @@ const muhammadAsad = {
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### AI & Automation
+### AI & Otomasi
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatbot_AI-00B4D8?style=for-the-badge&logo=chatbot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge&logo=robot-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Otomasi-FF6B6B?style=for-the-badge&logo=robot-framework&logoColor=white" />
 </p>
 
-### Tools & Platform
+### Alat & Platform
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -202,16 +202,16 @@ const muhammadAsad = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistik GitHub (Full Animasi)
 
 <div align="center">
   
   <a href="https://github.com/esnpendosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&include_all_commits=true&count_private=true" alt="Statistik GitHub" />
   </a>
   
   <a href="https://github.com/esnpendosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&langs_count=8" alt="Bahasa Terbanyak" />
   </a>
   
   <br/>
@@ -224,27 +224,27 @@ const muhammadAsad = {
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Animasi Snake Kontribusi
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/output/github-contribution-grid-snake.svg" width="100%" alt="Animasi Snake" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Grafik Aktivitas
 
 <div align="center">
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esnpendosa&theme=tokyo-night&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true)](https://github.com/esnpendosa)
+  [![Grafik Aktivitas](https://github-readme-activity-graph.vercel.app/graph?username=esnpendosa&theme=tokyo-night&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true)](https://github.com/esnpendosa)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trofi GitHub
 
 <div align="center">
 
@@ -254,7 +254,7 @@ const muhammadAsad = {
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Kutipan Developer Hari Ini
 
 <div align="center">
 
@@ -266,19 +266,19 @@ const muhammadAsad = {
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=esnpendosa&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=esnpendosa&color=00b4d8&style=flat-square&label=PENGUNJUNG+PROFIL" alt="Profile Views" />
   
   <br/>
   <br/>
   
   <a href="https://wa.me/6285730302827">
-    <img src="https://img.shields.io/badge/%F0%9F%93%9E_Hubungi_Saya-085730302827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Me" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%9E_Hubungi_Saya-085730302827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Kontak Saya" />
   </a>
   
   <br/>
   <br/>
   
-  <sub>💡 <i>Menggabungkan AI & Otomasi untuk solusi bisnis modern | Always building, always learning!</i></sub>
+  <sub>💡 <i>Menggabungkan AI & Otomasi untuk solusi bisnis modern | Terus membangun, terus belajar!</i></sub>
 
 </div>
 
@@ -287,3 +287,4 @@ const muhammadAsad = {
 <!-- Dibuat oleh Muhammad As'ad Muhibbin Akbar -->
 <!-- Founder KangDigital | https://kangdigital.web.id -->
 <!-- WhatsApp: 085730302827 | Email: aadscreet@gmail.com -->
+<!-- Spesialis: Web Dev, WhatsApp Bot, AI Automation, Firebase, Go, Windows Server -->
