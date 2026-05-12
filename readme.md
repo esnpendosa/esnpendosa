@@ -59,23 +59,10 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 *Jan 2021 - Mar 2023 (2 thn 3 bln) | Gresik, Jawa Timur*
 - Melayani jasa pembuatan website profesional dan kustomisasi aplikasi bisnis.
 - **Keahlian:** HTML, WordPress Design, UI/UX, Custom Web Apps, Database Management.
-- **Media:** Portofolio Update 2024.
 
 ### 📝 **WordPress Developer** @ PT Dapanel Digital Kreatif
 *Jan 2022 - Jan 2023 (1 thn 1 bln) | Gresik, Jawa Timur | On-site*
 - Mengembangkan dan memelihara ekosistem web berbasis WordPress untuk klien korporasi.
-- **Keahlian:** HTML, MySQL, Theme Development, Plugin Optimization.
-
-### 💻 **Web Developer** @ Rozitech
-*Jun 2021 - Sep 2021 (4 bln) | Maeyar, Jawa Timur | Paruh Waktu*
-- Bertanggung jawab atas pemeliharaan dan pengembangan fitur web.
-
----
-
-## 🎓 Pendidikan (Education)
-
-*   **Universitas Muhammadiyah Gresik**
-    *   Teknik Informatika (Informatics Engineering)
 
 ---
 
@@ -86,18 +73,18 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
     <tr>
       <td align="left">
         <ul>
-          <li>✅ Pengembangan Web & Aplikasi</li>
+          <li>✅ Pengembangan Web & Aplikasi (Laravel Specialist)</li>
           <li>✅ Manajemen Informasi</li>
-          <li>✅ Pengujian Perangkat Lunak</li>
           <li>✅ Desain Web Kreatif</li>
+          <li>✅ Pengembangan SaaS</li>
         </ul>
       </td>
       <td align="left">
         <ul>
-          <li>✅ Pengembangan SaaS</li>
-          <li>✅ Pengembangan Database</li>
           <li>✅ Integrasi API & Otomasi AI</li>
+          <li>✅ Pengembangan Database</li>
           <li>✅ SEO & Digital Marketing</li>
+          <li>✅ WhatsApp Automation Bot</li>
         </ul>
       </td>
     </tr>
@@ -106,15 +93,7 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 ---
 
-## 🧪 Proyek Unggulan & Aktivitas
-
-- **CRM RTRW Net**: Solusi otomasi penagihan dan manajemen pelanggan untuk pengusaha RT/RW Net.
-- **AI Integration**: Aktif mengeksplorasi dan mengintegrasikan model AI (seperti Claude/OpenAI) ke dalam workflow bisnis.
-- **WhatsApp Automation Specialist**: Membangun bot cerdas untuk layanan pelanggan dan notifikasi otomatis.
-
----
-
-## 🛡️ Tech Stack & Keahlian
+## 🛡️ Teknologi (Tech Stack)
 
 <div align="center">
 
@@ -127,22 +106,15 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### Tools & Others
+### Tools & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-00B4D8?style=for-the-badge&logo=google-search-console&logoColor=white" />
 </p>
 
 </div>
-
----
-
-## 🌐 Bahasa (Languages)
-*   **Bahasa Indonesia** (Native or Bilingual)
-*   **English** (Professional Working)
 
 ---
 
@@ -150,7 +122,10 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <!-- Menyembunyikan Jupyter Notebook agar PHP/Laravel lebih menonjol -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" alt="Top Languages" />
+  
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -173,4 +148,4 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 ---
 
-<!-- README by: Muhammad As'ad Muhibbin Akbar | Precise LinkedIn Clone -->
+<!-- README by: Muhammad As'ad Muhibbin Akbar -->
