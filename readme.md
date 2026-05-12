@@ -7,7 +7,7 @@
   
   <br/>
 
-  <!-- Typing Animation (Direct URL) -->
+  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=MUHAMMAD+AS'AD+MUHIBBIN+AKBAR;System+Engineer+%7C+Full+Stack+Developer;Founder+of+KangDigital" alt="Typing Animation" />
   
   <br/>
@@ -73,9 +73,20 @@ const muhammadAsad = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esnpendosa&theme=tokyonight" alt="Stats" />
+  
+  <!-- Stats Card (Alternative link format to debug) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&theme=tokyonight&layout=compact" alt="Langs" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  
+  <br/>
+  
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
