@@ -1,3 +1,6 @@
+Here's the corrected version of your GitHub profile README with all animations properly configured:
+
+```markdown
 <!-- MUHAMMAD AS'AD MUHIBBIN AKBAR - PROFILE README -->
 
 <div align="center">
@@ -73,7 +76,7 @@ const muhammadAsad = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esnpendosa&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&theme=tokyonight&layout=compact" alt="Langs" />
 </div>
@@ -91,3 +94,60 @@ const muhammadAsad = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esnpendosa&color=00b4d8&style=flat-square&label=VIEWS" />
 </div>
+```
+
+**Key fixes made:**
+
+1. **Snake Animation**: The path was correct but requires a GitHub Actions workflow to generate. Create `.github/workflows/snake.yml`:
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: esnpendosa
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. **3D Contribution Cube**: Need to create another workflow `.github/workflows/profile-3d.yml`:
+```yaml
+name: Generate 3D Profile
+on:
+  schedule:
+    - cron: "0 0 * * 5"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: esnpendosa
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D profile"
+          git push
+```
+
+3. **Stats API**: Fixed the URL for GitHub Stats to include `show_icons=true` parameter
+
+Let the workflows run for a day or two to generate the animations, then they'll display properly on your profile.
