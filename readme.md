@@ -3,8 +3,8 @@
 
 <div align="center">
 
-  <!-- 3D Contribution Cube Animation -->
-  <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Cube" />
+  <!-- 3D Isometric Banner (Custom Generated) -->
+  <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/main/assets/banner-3d.png" width="100%" alt="3D Profile Banner" />
   
   <br/>
   <br/>
@@ -17,7 +17,12 @@
   <br/>
   <br/>
 
-  <!-- Badge Status & Layanan -->
+  <!-- 3D Contribution Cube Animation (Dynamic) -->
+  <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Cube" />
+  
+  <br/>
+
+  <!-- Badge Status & Layanan (Animated Style) -->
   <p>
     <img src="https://img.shields.io/badge/STATUS-TERSEDIA_UNTUK_PROYEK-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/LAYANAN-PENGEMBANGAN_WEB_%26_APP-00B4D8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Services" />
@@ -46,7 +51,7 @@
 
 ---
 
-## 💼 Layanan Profesional KangDigital
+## 💼 Layanan Profesional KangDigital (3D Perspective)
 
 <div align="center">
   <i>Menerima pengerjaan proyek kustom dengan teknologi terbaru dan tercanggih</i>
@@ -57,44 +62,44 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <h3>🌐</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="50" />
       <h4>Web Development</h4>
       <p>Landing Page<br/>Profil Perusahaan<br/>Dashboard Admin<br/>E-Commerce</p>
     </td>
     <td align="center" width="25%">
-      <h3>🤖</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Bot" width="50" />
       <h4>Otomasi WhatsApp</h4>
       <p>Bot Bisnis<br/>Notifikasi Otomatis<br/>Integrasi Sistem<br/>CRM WhatsApp</p>
     </td>
     <td align="center" width="25%">
-      <h3>📱</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="App" width="50" />
       <h4>Aplikasi Kustom</h4>
       <p>Aplikasi Web Laravel<br/>Backend Node.js<br/>Progressive Web App<br/>REST API</p>
     </td>
     <td align="center" width="25%">
-      <h3>⚙️</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="System" width="50" />
       <h4>Optimasi Sistem</h4>
       <p>Migrasi Database<br/>Integrasi API<br/>Otomasi Server<br/>Cloud Deployment</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <h3>🧠</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="AI" width="50" />
       <h4>Otomasi AI</h4>
       <p>AI Chatbot<br/>Machine Learning<br/>Otomasi Pintar<br/>Analisis Data</p>
     </td>
     <td align="center" width="25%">
-      <h3>🪟</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Windows" width="50" />
       <h4>Windows Dev</h4>
       <p>Aplikasi Windows<br/>Manajemen Server<br/>Konfigurasi IIS<br/>.NET Framework</p>
     </td>
     <td align="center" width="25%">
-      <h3>🔥</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Firebase" width="50" />
       <h4>Integrasi Firebase</h4>
       <p>Database Real-time<br/>Cloud Functions<br/>Autentikasi<br/>Notifikasi Push</p>
     </td>
     <td align="center" width="25%">
-      <h3>🚀</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Go" width="50" />
       <h4>Bahasa Go</h4>
       <p>Microservices<br/>API Performa Tinggi<br/>Sistem Konkuren<br/>Cloud Native Apps</p>
     </td>
@@ -111,7 +116,7 @@
 
 ---
 
-## 👤 Tentang Saya
+## 👤 Tentang Saya (Object Oriented)
 
 <div align="center">
 
@@ -224,7 +229,7 @@ const muhammadAsad = {
 
 ---
 
-## 🐍 Animasi Snake Kontribusi
+## 🐍 Animasi Snake Kontribusi (3D Style)
 
 <div align="center">
   
@@ -234,7 +239,7 @@ const muhammadAsad = {
 
 ---
 
-## 📈 Grafik Aktivitas
+## 📈 Grafik Aktivitas (Premium)
 
 <div align="center">
 
@@ -244,7 +249,7 @@ const muhammadAsad = {
 
 ---
 
-## 🏆 Trofi GitHub
+## 🏆 Trofi GitHub (Isometric)
 
 <div align="center">
 
