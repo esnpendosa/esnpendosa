@@ -9,15 +9,16 @@
   <br/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=MUHAMMAD+AS'AD+MUHIBBIN+AKBAR;Founder+KangDigital;Informatics+Engineering+Student+@+UMG;WhatsApp+Bot+%26+AI+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=1000&lines=MUHAMMAD+AS'AD+MUHIBBIN+AKBAR;System+Engineer+%7C+Full+Stack+Developer;AI+%26+Automation+Enthusiast;Founder+of+KangDigital;Digital+Marketing+%26+SEO+Specialist" alt="Typing Animation" />
   
   <br/>
   <br/>
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/UNIVERSITY-UMG_GRESIK-00B4D8?style=for-the-badge&logo=google-scholar&logoColor=white" />
-    <img src="https://img.shields.io/badge/EXPERTISE-WEB_%26_AUTOMATION-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/CTO-PT_LINGKUP_INDONESIA-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/FOUNDER-KANGDIGITAL-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/EDUCATION-UMG_GRESIK-00B4D8?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </p>
   
   <br/>
@@ -39,59 +40,57 @@
 
 ---
 
-## 🚀 Profesional & Edukasi
+## 📖 Tentang Saya
 
-<div align="center">
-  <i>Mahasiswa Teknik Informatika yang berfokus pada Solusi Digital & Edukasi Teknologi</i>
-</div>
+<p align="justify">
+Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesuai dengan kebutuhan pengguna. Berpengalaman dalam membangun sistem berbasis web, integrasi API, serta otomasi untuk meningkatkan efisiensi bisnis. Sebagai Founder KangDigital, saya berdedikasi untuk menghadirkan teknologi AI dan otomasi ke dalam operasional bisnis modern.
+</p>
 
-<br/>
+---
 
-<table align="center">
+## 💼 Pengalaman Profesional
+
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3>👨‍💻</h3>
-      <h4>Developer</h4>
-      <p>Membangun sistem web kustom menggunakan Laravel & Node.js untuk solusi bisnis.</p>
+    <td width="50%">
+      <b>🚀 CTO</b><br/>
+      <i>PT Lingkup Indonesia Corp (Pekerja Lepas)</i><br/>
+      Jan 2023 - Saat Ini
     </td>
-    <td align="center" width="33%">
-      <h3>👨‍🏫</h3>
-      <h4>Trainer</h4>
-      <p>Narasumber Workshop Web Developer & Literasi Digital bagi masyarakat.</p>
+    <td width="50%">
+      <b>🌐 Freelance Web Developer</b><br/>
+      <i>Self-Employed</i><br/>
+      Jan 2021 - Mar 2023
     </td>
-    <td align="center" width="33%">
-      <h3>🤖</h3>
-      <h4>Automation</h4>
-      <p>Spesialis integrasi Bot WhatsApp & sistem CRM otomatis berbasis AI.</p>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📝 WordPress Developer</b><br/>
+      <i>PT Dapanel Digital Kreatif (Kontrak)</i><br/>
+      Jan 2022 - Jan 2023
+    </td>
+    <td width="50%">
+      <b>💻 Web Developer</b><br/>
+      <i>Rozitech (Paruh Waktu)</i><br/>
+      Jun 2021 - Sep 2021
     </td>
   </tr>
 </table>
 
 ---
 
-## 👤 Tentang Saya (Object-Oriented)
+## 🛠️ Keahlian & Layanan
 
 <div align="center">
-
-```javascript
-const muhammadAsad = {
-    identity: "Muhammad As'ad Muhibbin Akbar",
-    education: "Universitas Muhammadiyah Gresik (UMG)",
-    major: "Informatics Engineering (Teknik Informatika)",
-    initiative: "Founder KangDigital",
-    location: "📍 Gresik, East Java, Indonesia",
-    
-    currentProjects: [
-        "WhatsApp Bot Business Automation",
-        "CRM & POS Management System",
-        "AI Integrated Web Apps"
-    ],
-    
-    focus: "Bridging business needs with modern technology & AI",
-    status: "🚀 Open for Projects & Collaboration"
-};
-```
-
+  <table align="center">
+    <tr>
+      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="50" /><br/>Web Dev</td>
+      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50" /><br/>API & Automation</td>
+      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="50" /><br/>SaaS & App</td>
+      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" /><br/>Database</td>
+      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="50" /><br/>SEO & Marketing</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -99,28 +98,36 @@ const muhammadAsad = {
 ## 🛡️ Teknologi (Tech Stack)
 
 <div align="center">
+
+### Core Backend & Language
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### Tools & Infrastructure
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
-## 📊 Statistik GitHub (Live Stats)
+## 📊 Statistik GitHub
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
   <br/>
-  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
@@ -133,20 +140,12 @@ const muhammadAsad = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esnpendosa&theme=tokyo-night&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esnpendosa&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/>
-  <sub>💡 <i>Building digital solutions for a better tomorrow. Let's collaborate!</i></sub>
+  <sub>💡 <i>Building scalable solutions through code and automation. Let's talk!</i></sub>
 </div>
 
 ---
 
-<!-- README by: Muhammad As'ad Muhibbin Akbar | KangDigital -->
+<!-- README by: Muhammad As'ad Muhibbin Akbar | LinkedIn Sync -->
