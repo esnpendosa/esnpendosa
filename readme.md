@@ -70,22 +70,20 @@ const muhammadAsad = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistik GitHub
 
 <div align="center">
   
-  <!-- Stats Card (Alternative link format to debug) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <!-- Menggunakan instance alternatif karena instance utama sedang mengalami gangguan (Camo Error) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight" alt="Stats" />
   
   <br/>
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight" alt="Langs" />
   
   <br/>
   
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight" alt="Streak" />
 
 </div>
 
