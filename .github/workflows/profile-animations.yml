@@ -1,36 +1,29 @@
-name: Profile Animations
+name: Profile Visuals
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate-3d-contrib:
+  update-visuals:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Cube
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+
+      # Generate 3D Contribution Cube
+      - name: Generate 3D Cube
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Update 3D contribution cube" || exit 0
-          git push
 
-  generate-snake:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    name: Generate Snake Animation
-    steps:
+      # Generate Snake Animation
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -38,7 +31,18 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
+
+      # Commit 3D Cube to main branch
+      - name: Commit & Push 3D Cube
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib/
+          git commit -m "chore: update 3d contribution cube [skip ci]" || exit 0
+          git push
+
+      # Push Snake to output branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

@@ -4,6 +4,7 @@
 <div align="center">
 
   <!-- Banner 3D Contribution Cube (Auto-generated) -->
+  <!-- Note: Jika gambar di bawah ini pecah, berarti GitHub Action sedang memproses file pertama kalinya -->
   <img src="https://raw.githubusercontent.com/esnpendosa/esnpendosa/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution" />
   
   <br/>
@@ -159,17 +160,17 @@ const muhammadAsad = {
 <div align="center">
   
   <a href="https://github.com/esnpendosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esnpendosa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/esnpendosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esnpendosa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   
   <br/>
   
   <a href="https://github.com/esnpendosa">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -180,6 +181,7 @@ const muhammadAsad = {
 
 <div align="center">
   
+  <!-- Animasi ini akan muncul setelah GitHub Action pertama kali berjalan -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esnpendosa/esnpendosa/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esnpendosa/esnpendosa/output/github-contribution-grid-snake.svg">
@@ -210,16 +212,6 @@ const muhammadAsad = {
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00b4d8)](https://open.spotify.com/user/esnpendosa)
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -245,5 +237,4 @@ const muhammadAsad = {
 <!-- 
   README by: Muhammad As'ad Muhibbin Akbar
   Website: https://kangdigital.web.id
-  LinkedIn: https://www.linkedin.com/in/muahmmad-as-ad-muhibbin-akbar-0973a0254/
 -->
