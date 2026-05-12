@@ -40,7 +40,7 @@
 
 ---
 
-## 📖 Tentang Saya
+## 📖 Tentang Saya (About)
 
 <p align="justify">
 Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesuai dengan kebutuhan pengguna. Berpengalaman dalam membangun sistem berbasis web, integrasi API, serta otomasi untuk meningkatkan efisiensi bisnis. Sebagai Founder KangDigital, saya berdedikasi untuk menghadirkan teknologi AI dan otomasi ke dalam operasional bisnis modern.
@@ -48,38 +48,55 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 ---
 
-## 💼 Pengalaman Profesional
+## 💼 Pengalaman Profesional (Experience)
 
 <table width="100%">
   <tr>
     <td width="50%">
       <b>🚀 CTO</b><br/>
-      <i>PT Lingkup Indonesia Corp (Pekerja Lepas)</i><br/>
-      Jan 2023 - Saat Ini
+      <i>PT Lingkup Indonesia Corp · Pekerja Lepas</i><br/>
+      Jan 2023 - Saat Ini · 1 thn 5 bln<br/>
+      Gresik, Jawa Timur, Indonesia · Jarak Jauh
     </td>
     <td width="50%">
       <b>🌐 Freelance Web Developer</b><br/>
-      <i>Self-Employed</i><br/>
-      Jan 2021 - Mar 2023
+      <i>Pekerja Lepas</i><br/>
+      Jan 2021 - Mar 2023 · 2 thn 3 bln<br/>
+      Gresik, Jawa Timur, Indonesia
     </td>
   </tr>
   <tr>
     <td width="50%">
       <b>📝 WordPress Developer</b><br/>
-      <i>PT Dapanel Digital Kreatif (Kontrak)</i><br/>
-      Jan 2022 - Jan 2023
+      <i>PT Dapanel Digital Kreatif · Kontrak</i><br/>
+      Jan 2022 - Jan 2023 · 1 thn 1 bln<br/>
+      Gresik, Jawa Timur, Indonesia · Di lokasi
     </td>
     <td width="50%">
       <b>💻 Web Developer</b><br/>
-      <i>Rozitech (Paruh Waktu)</i><br/>
-      Jun 2021 - Sep 2021
+      <i>Rozitech · Paruh Waktu</i><br/>
+      Jun 2021 - Sep 2021 · 4 bln<br/>
+      Maeyar, Jawa Timur, Indonesia
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Keahlian & Layanan
+## 🎓 Pendidikan (Education)
+
+<table width="100%">
+  <tr>
+    <td>
+      <b>🎓 Universitas Muhammadiyah Gresik</b><br/>
+      <i>Teknik Informatika (Informatics Engineering)</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Keahlian & Layanan (Skills & Services)
 
 <div align="center">
   <table align="center">
@@ -92,6 +109,17 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
     </tr>
   </table>
 </div>
+
+<br/>
+
+> **Layanan Tambahan:** Manajemen Informasi, Pengujian Perangkat Lunak, Desain Web, Pengembangan Aplikasi, Pengembangan Database.
+
+---
+
+## 🧪 Proyek Unggulan (Featured Projects)
+
+*   **CRM RTRW Net**: Membangun sistem CRM khusus untuk manajemen jaringan RTRW Net dengan fitur otomasi dan skalabilitas tinggi.
+*   **Portfolio Update 2024**: Pengembangan sistem web kustom dan aplikasi berbasis CMS (WordPress).
 
 ---
 
@@ -148,4 +176,4 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 ---
 
-<!-- README by: Muhammad As'ad Muhibbin Akbar | LinkedIn Sync -->
+<!-- README by: Muhammad As'ad Muhibbin Akbar | Full LinkedIn Clone -->
