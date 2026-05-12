@@ -40,7 +40,7 @@
 
 ---
 
-## 📖 Tentang Saya (About)
+## 📖 Ringkasan Profesional (About)
 
 <p align="justify">
 Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesuai dengan kebutuhan pengguna. Berpengalaman dalam membangun sistem berbasis web, integrasi API, serta otomasi untuk meningkatkan efisiensi bisnis. Sebagai Founder KangDigital, saya berdedikasi untuk menghadirkan teknologi AI dan otomasi ke dalam operasional bisnis modern.
@@ -48,86 +48,77 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 ---
 
-## 💼 Pengalaman Profesional (Experience)
+## 💼 Pengalaman Kerja (Experience)
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <b>🚀 CTO</b><br/>
-      <i>PT Lingkup Indonesia Corp · Pekerja Lepas</i><br/>
-      Jan 2023 - Saat Ini · 1 thn 5 bln<br/>
-      Gresik, Jawa Timur, Indonesia · Jarak Jauh
-    </td>
-    <td width="50%">
-      <b>🌐 Freelance Web Developer</b><br/>
-      <i>Pekerja Lepas</i><br/>
-      Jan 2021 - Mar 2023 · 2 thn 3 bln<br/>
-      Gresik, Jawa Timur, Indonesia
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>📝 WordPress Developer</b><br/>
-      <i>PT Dapanel Digital Kreatif · Kontrak</i><br/>
-      Jan 2022 - Jan 2023 · 1 thn 1 bln<br/>
-      Gresik, Jawa Timur, Indonesia · Di lokasi
-    </td>
-    <td width="50%">
-      <b>💻 Web Developer</b><br/>
-      <i>Rozitech · Paruh Waktu</i><br/>
-      Jun 2021 - Sep 2021 · 4 bln<br/>
-      Maeyar, Jawa Timur, Indonesia
-    </td>
-  </tr>
-</table>
+### 🚀 **CTO** @ PT Lingkup Indonesia Corp
+*Jan 2023 - Saat Ini (1 thn 5 bln) | Gresik, Jawa Timur | Jarak Jauh (Remote)*
+- Memimpin strategi teknologi dan pengembangan sistem backend/frontend.
+- **Keahlian:** Laravel, Python, Integration, API Development, System Architecture.
+
+### 🌐 **Freelance Web Developer** @ Pekerja Lepas
+*Jan 2021 - Mar 2023 (2 thn 3 bln) | Gresik, Jawa Timur*
+- Melayani jasa pembuatan website profesional dan kustomisasi aplikasi bisnis.
+- **Keahlian:** HTML, WordPress Design, UI/UX, Custom Web Apps, Database Management.
+- **Media:** Portofolio Update 2024.
+
+### 📝 **WordPress Developer** @ PT Dapanel Digital Kreatif
+*Jan 2022 - Jan 2023 (1 thn 1 bln) | Gresik, Jawa Timur | On-site*
+- Mengembangkan dan memelihara ekosistem web berbasis WordPress untuk klien korporasi.
+- **Keahlian:** HTML, MySQL, Theme Development, Plugin Optimization.
+
+### 💻 **Web Developer** @ Rozitech
+*Jun 2021 - Sep 2021 (4 bln) | Maeyar, Jawa Timur | Paruh Waktu*
+- Bertanggung jawab atas pemeliharaan dan pengembangan fitur web.
 
 ---
 
 ## 🎓 Pendidikan (Education)
 
-<table width="100%">
-  <tr>
-    <td>
-      <b>🎓 Universitas Muhammadiyah Gresik</b><br/>
-      <i>Teknik Informatika (Informatics Engineering)</i>
-    </td>
-  </tr>
-</table>
+*   **Universitas Muhammadiyah Gresik**
+    *   Teknik Informatika (Informatics Engineering)
 
 ---
 
-## 🛠️ Keahlian & Layanan (Skills & Services)
+## 🛠️ Layanan & Spesialisasi (Services)
 
 <div align="center">
-  <table align="center">
+  <table width="100%">
     <tr>
-      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="50" /><br/>Web Dev</td>
-      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50" /><br/>API & Automation</td>
-      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="50" /><br/>SaaS & App</td>
-      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" /><br/>Database</td>
-      <td align="center" width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="50" /><br/>SEO & Marketing</td>
+      <td align="left">
+        <ul>
+          <li>✅ Pengembangan Web & Aplikasi</li>
+          <li>✅ Manajemen Informasi</li>
+          <li>✅ Pengujian Perangkat Lunak</li>
+          <li>✅ Desain Web Kreatif</li>
+        </ul>
+      </td>
+      <td align="left">
+        <ul>
+          <li>✅ Pengembangan SaaS</li>
+          <li>✅ Pengembangan Database</li>
+          <li>✅ Integrasi API & Otomasi AI</li>
+          <li>✅ SEO & Digital Marketing</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </div>
 
-<br/>
+---
 
-> **Layanan Tambahan:** Manajemen Informasi, Pengujian Perangkat Lunak, Desain Web, Pengembangan Aplikasi, Pengembangan Database.
+## 🧪 Proyek Unggulan & Aktivitas
+
+- **CRM RTRW Net**: Solusi otomasi penagihan dan manajemen pelanggan untuk pengusaha RT/RW Net.
+- **AI Integration**: Aktif mengeksplorasi dan mengintegrasikan model AI (seperti Claude/OpenAI) ke dalam workflow bisnis.
+- **WhatsApp Automation Specialist**: Membangun bot cerdas untuk layanan pelanggan dan notifikasi otomatis.
 
 ---
 
-## 🧪 Proyek Unggulan (Featured Projects)
-
-*   **CRM RTRW Net**: Membangun sistem CRM khusus untuk manajemen jaringan RTRW Net dengan fitur otomasi dan skalabilitas tinggi.
-*   **Portfolio Update 2024**: Pengembangan sistem web kustom dan aplikasi berbasis CMS (WordPress).
-
----
-
-## 🛡️ Teknologi (Tech Stack)
+## 🛡️ Tech Stack & Keahlian
 
 <div align="center">
 
-### Core Backend & Language
+### Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -136,16 +127,22 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### Tools & Infrastructure
+### Tools & Others
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-00B4D8?style=for-the-badge&logo=google-search-console&logoColor=white" />
 </p>
 
 </div>
+
+---
+
+## 🌐 Bahasa (Languages)
+*   **Bahasa Indonesia** (Native or Bilingual)
+*   **English** (Professional Working)
 
 ---
 
@@ -176,4 +173,4 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
 
 ---
 
-<!-- README by: Muhammad As'ad Muhibbin Akbar | Full LinkedIn Clone -->
+<!-- README by: Muhammad As'ad Muhibbin Akbar | Precise LinkedIn Clone -->
