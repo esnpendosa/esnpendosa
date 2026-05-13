@@ -73,9 +73,9 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
     <tr>
       <td align="left">
         <ul>
-          <li>✅ Pengembangan Web & Aplikasi (Laravel Specialist)</li>
+          <li>✅ Pengembangan Web</li>
           <li>✅ Manajemen Informasi</li>
-          <li>✅ Desain Web Kreatif</li>
+          <li>✅ Pengembangan Aplikasi Native </li>
           <li>✅ Pengembangan SaaS</li>
         </ul>
       </td>
@@ -83,8 +83,8 @@ Saya berfokus pada pengembangan solusi digital yang efisien, scalable, dan sesua
         <ul>
           <li>✅ Integrasi API & Otomasi AI</li>
           <li>✅ Pengembangan Database</li>
-          <li>✅ SEO & Digital Marketing</li>
-          <li>✅ WhatsApp Automation Bot</li>
+          <li>✅ Desain Web </li>
+          <li>✅ AI Automation</li>
         </ul>
       </td>
     </tr>
