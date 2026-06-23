@@ -1,10 +1,10 @@
 <!-- MUHAMMAD AS'AD MUHIBBIN AKBAR - PROFILE README -->
-<!-- SEO: System Engineer Gresik, Full Stack Developer, WhatsApp Bot Specialist, Founder KangDigital -->
+<!-- SEO: Full Stack AI Engineer, WhatsApp Bot Specialist, Founder KangDigital -->
 
 <div align="center">
   
   # ⚡ MUHAMMAD AS'AD MUHIBBIN AKBAR
-  ### **System Engineer | Full Stack Developer | AI & Automation Specialist**
+  ### **Full Stack AI Engineer | AI & Automation Specialist**
   
   [![Website](https://img.shields.io/badge/Website-kangdigital.web.id-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://kangdigital.web.id)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muahmmad-as-ad-muhibbin-akbar-0973a0254/)
@@ -15,18 +15,7 @@
 
 ## 📖 Ringkasan Profesional
 
-Saya adalah **System Engineer & Full Stack Developer** berpengalaman dalam merancang, membangun, dan mengoptimalkan sistem berbasis web yang scalable. Memiliki spesialisasi dalam **Integrasi API, Otomasi AI (AI Automation), dan Software Architecture**. Berfokus pada penyusunan solusi teknologi praktis untuk meningkatkan efisiensi operasional bisnis.
-
----
-
-## 💼 Pengalaman Profesional (Ringkas)
-
-*   **CTO** @ PT Lingkup Indonesia Corp *(Jan 2023 - Sekarang)*
-    *   Memimpin strategi teknologi, arsitektur sistem backend/frontend, integrasi API, & Docker.
-*   **Freelance Web Developer** @ Pekerja Lepas *(Jan 2021 - Mar 2023)*
-    *   Menyelesaikan 20+ proyek kustomisasi aplikasi web bisnis, portal informasi, dan e-commerce.
-*   **WordPress Developer** @ PT Dapanel Digital Kreatif *(Jan 2022 - Jan 2023)*
-    *   Mengembangkan custom plugin/tema WordPress dan pemeliharaan website korporat.
+Saya adalah **Full Stack AI Engineer** berpengalaman dalam merancang, membangun, dan mengoptimalkan sistem berbasis web yang scalable menggunakan efisiensi bantuan AI tools. Memiliki spesialisasi dalam **Integrasi API, Otomasi AI (AI Automation), dan Software Architecture**. Berfokus pada penyusunan solusi teknologi praktis untuk meningkatkan efisiensi operasional bisnis.
 
 ---
 
