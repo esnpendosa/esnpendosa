@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  # ⚡ MUHAMMAD AS'AD MUHIBBIN AKBAR
+  # MUHAMMAD AS'AD MUHIBBIN AKBAR
   ### **Full Stack AI Engineer | AI & Automation Specialist**
   
   [![Website](https://img.shields.io/badge/Website-kangdigital.web.id-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://kangdigital.web.id)
@@ -13,35 +13,35 @@
   ---
 </div>
 
-## 📖 Ringkasan Profesional
+## Ringkasan Profesional
 
 Saya adalah **Full Stack AI Engineer** berpengalaman dalam merancang, membangun, dan mengoptimalkan sistem berbasis web yang scalable menggunakan efisiensi bantuan AI tools. Memiliki spesialisasi dalam **Integrasi API, Otomasi AI (AI Automation), dan Software Architecture**. Berfokus pada penyusunan solusi teknologi praktis untuk meningkatkan efisiensi operasional bisnis.
 
 ---
 
-## 🛠️ Tech Stack Utama
+## Tech Stack Utama
 
-- **Languages:** PHP, Python, Go, Node.js, JavaScript, SQL
+- **Languages:** PHP, Python, Go, Java, Node.js, JavaScript, SQL
 - **Frameworks/CMS:** Laravel, WordPress, Express
 - **Tools/DevOps:** Docker, Git, Linux, Postman (API Integration)
 
 ---
 
-## 🚀 Proyek Pilihan (Featured Projects)
+## Proyek Pilihan (Featured Projects)
 
 | Project | Kategori & Deskripsi Singkat | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🤖 **JARVIS-CUSTOM** | Asisten AI berbasis suara (GUI) untuk Windows automation. | `Python`, `PyQt5`, `SpeechRecognition` | [Repo](https://github.com/esnpendosa/JARVIS-CUSTOM) |
-| 🐺 **LONEWOLF** | Platform internal ERP operasional PT Lingkup Indonesia Corp. | `Laravel`, `PHP`, `MySQL` | [Repo](https://github.com/esnpendosa/LONEWOLF-By-LINGKUP) |
-| 🔌 **WP Cert Plugin** | Plugin WordPress untuk auto-generate sertifikat PDF digital ke email. | `PHP`, `WordPress Core API`, `FPDF` | [Repo](https://github.com/esnpendosa/plugin-sertifikat-digital-wordpress) |
-| 🧠 **Welfare Classifier** | Sistem klasifikasi bantuan sosial berbasis Naive Bayes Classifier. | `Go (Golang)`, `Naive Bayes`, `MySQL` | [Repo](https://github.com/esnpendosa/Kelurahan-Randuagun-Naive-Bayes-Welfare-Classification) |
-| 🛒 **RKASIR** | Aplikasi kasir web (Point of Sale) real-time. | `JavaScript`, `Node.js`, `HTML5/CSS3` | [Repo](https://github.com/esnpendosa/RKASIR) |
+| **JARVIS-CUSTOM** | Asisten AI berbasis suara (GUI) untuk Windows automation. | `Python`, `PyQt5`, `SpeechRecognition` | [Repo](https://github.com/esnpendosa/JARVIS-CUSTOM) |
+| **LONEWOLF** | Platform internal ERP operasional PT Lingkup Indonesia Corp. | `Laravel`, `PHP`, `MySQL` | [Repo](https://github.com/esnpendosa/LONEWOLF-By-LINGKUP) |
+| **WP Cert Plugin** | Plugin WordPress untuk auto-generate sertifikat PDF digital ke email. | `PHP`, `WordPress Core API`, `FPDF` | [Repo](https://github.com/esnpendosa/plugin-sertifikat-digital-wordpress) |
+| **Welfare Classifier** | Sistem klasifikasi bantuan sosial berbasis Naive Bayes Classifier. | `Go (Golang)`, `Naive Bayes`, `MySQL` | [Repo](https://github.com/esnpendosa/Kelurahan-Randuagun-Naive-Bayes-Welfare-Classification) |
+| **RKASIR** | Aplikasi kasir web (Point of Sale) real-time. | `JavaScript`, `Node.js`, `HTML5/CSS3` | [Repo](https://github.com/esnpendosa/RKASIR) |
 
 *Untuk melihat 30+ repositori proyek lainnya, silakan kunjungi tab **Repositories** saya.*
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -58,7 +58,7 @@ Saya adalah **Full Stack AI Engineer** berpengalaman dalam merancang, membangun,
   <br/>
   
   <details>
-    <summary>📈 Lihat Grafik Kontribusi & Snake Animation</summary>
+    <summary>Lihat Grafik Kontribusi & Snake Animation</summary>
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=esnpendosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <br/><br/>
@@ -73,7 +73,7 @@ Saya adalah **Full Stack AI Engineer** berpengalaman dalam merancang, membangun,
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=esnpendosa&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/>
-  <sub>💡 <i>Building scalable solutions through clean code and smart automation. Let's connect!</i></sub>
+  <sub><i>Building scalable solutions through clean code and smart automation. Let's connect!</i></sub>
 </div>
 
 <!-- README by: Muhammad As'ad Muhibbin Akbar -->
