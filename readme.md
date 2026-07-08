@@ -4,7 +4,7 @@
 <div align="center">
   
   # MUHAMMAD AS'AD MUHIBBIN AKBAR
-  ### **Full Stack AI Engineer | AI & Automation Specialist**
+  ### **System Engineer Enthusiast | Full Stack Engineer | AI & Automation Enthusiast | Founder of KangDigital | Digital Marketing Enthusiast | SEO Enthusiast**
   
   [![Website](https://img.shields.io/badge/Website-kangdigital.web.id-10B981?style=flat-square&logo=google-chrome&logoColor=white)](https://kangdigital.web.id)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muahmmad-as-ad-muhibbin-akbar-0973a0254/)
