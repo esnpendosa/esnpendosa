@@ -15,7 +15,7 @@
 
 ## Ringkasan Profesional
 
-Saya adalah **Full Stack AI Engineer** berpengalaman dalam merancang, membangun, dan mengoptimalkan sistem berbasis web yang scalable menggunakan efisiensi bantuan AI tools. Memiliki spesialisasi dalam **Integrasi API, Otomasi AI (AI Automation), dan Software Architecture**. Berfokus pada penyusunan solusi teknologi praktis untuk meningkatkan efisiensi operasional bisnis.
+Saya adalah **Full Stack Engineer** berpengalaman dalam merancang, membangun, dan mengoptimalkan sistem berbasis web yang scalable menggunakan efisiensi bantuan AI tools. Memiliki spesialisasi dalam **Integrasi API, Otomasi AI (AI Automation), dan Software Architecture**. Berfokus pada penyusunan solusi teknologi praktis untuk meningkatkan efisiensi operasional bisnis.
 
 ---
 
