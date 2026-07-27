@@ -13,12 +13,6 @@
   ---
 </div>
 
-## Ringkasan Profesional
-
-Saya adalah **Full Stack Engineer** berpengalaman dalam merancang, membangun, dan mengoptimalkan sistem berbasis web yang scalable menggunakan efisiensi bantuan AI tools. Memiliki spesialisasi dalam **Integrasi API, Otomasi AI (AI Automation), dan Software Architecture**. Berfokus pada penyusunan solusi teknologi praktis untuk meningkatkan efisiensi operasional bisnis.
-
----
-
 ## Tech Stack Utama
 
 - **Languages:** PHP, Python, Go, Java, Node.js, JavaScript, SQL
